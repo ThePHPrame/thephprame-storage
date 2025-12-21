@@ -1,0 +1,17 @@
+{
+    "name": "thephprame/thephprame-storage",
+    "type": "library",
+    "description": "Use storage in the phprame framework",
+    "keywords": ["phprame", "storage", "framework"],
+    "license": "MIT",
+    "authors": [],
+    "require": {
+        "php": ">=8.0.0",
+        "thephprame/thephprame-core": "1.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ThePHPrame\\Storage\\": "src/"
+        }
+    }
+}

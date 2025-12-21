@@ -1,2 +1,2 @@
-# thephprame-sessions
-Sessions package for thephprame framework
+# thephprame-storage
+Storage module for thephprame framework
